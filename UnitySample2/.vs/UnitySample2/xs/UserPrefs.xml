@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E7F958AB-BA9E-1BBF-15A5-EE1BDA9D5DE7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NoUnityJarScript.cs">
+    <Files>
+      <File FileName="Assets/MyScript.cs" Line="24" Column="1" />
+      <File FileName="Assets/NoUnityJarScript.cs" Line="27" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnitySample2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="NoUnityJarScript.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="643266b6-c7c1-43c8-b4c6-3a5aeab732fe" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
